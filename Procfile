@@ -1,1 +1,1 @@
-worker: node bot.js Cubic World
+worker: node bot.js CubicWorld
